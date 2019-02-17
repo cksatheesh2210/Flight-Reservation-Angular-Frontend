@@ -1,3 +1,5 @@
+Please import this project into Visula Studio Code IDE
+
 # FlightReservation
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.3.
