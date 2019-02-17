@@ -1,4 +1,4 @@
-Please import this project into Visula Studio Code IDE
+Please import this project into Visual Studio Code IDE
 
 # FlightReservation
 
